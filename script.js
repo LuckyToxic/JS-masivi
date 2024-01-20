@@ -64,3 +64,71 @@
 // console.log(newNum)
 
 // console.log(numArr2)
+
+
+
+
+// let fruits = ['Яблоко','Апельсин','Груша']        //Второе задание 
+
+// let len = []
+
+// function lenStr(){
+//     for (let i = 0 ; i < fruits.length;i++) {
+//         len.push(fruits[i].length);
+//     }
+// }
+
+// lenStr()
+
+// console.log(len)
+
+
+
+
+
+// let num = [1,2,3,4,5,6]         //Восьмое задание 
+
+// for( let i = 0; i < num.length;i++){
+//     console.log(`${num[i]}`*2)
+// }
+
+
+
+
+
+
+// let inp = document.querySelector('#inp');     //Седьмое задание 
+
+// let btn = document.querySelector('#btn');
+
+// let users = ['Петя','Гриша','Миша'];
+
+// btn.addEventListener('click',() =>{
+//     users.push(inp.value);
+//     console.log(users);
+//     inp.value = '';
+// })
+
+
+
+
+// let books = [{title:'Пересмешник',author:'Алексей Пехов',year:2009},                 //Тринадцатое задание 
+//              {title:'Маленький принц',author:'Ануан де Сент-Экзюпери',year:1943},
+//              {title:'Алхимик',author:'Пауло Коэльо',year:1988}]
+
+
+// for( let i = 0; i < books.length;i++){
+//     console.table(books[i])
+// }
+
+
+
+
+
+// let num = [ 1,7,9,3,6,2,10]         //Пятнадцатое задание   
+
+// for( let i = 0; i < num.length;i++){
+//     if(num[i] > 5){
+//         console.log(num.indexOf(num[i]))
+//     }
+// }
